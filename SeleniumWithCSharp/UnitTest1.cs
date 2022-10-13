@@ -17,8 +17,7 @@ public class Tests : DriverHelper
 
         
         CustomControl.ComboBoxControl("ContentPlaceHolder1_AllMealsCombo", "Almonds");
-                    
-        Console.WriteLine("Test1");
+                   
         Assert.Pass();
     }
 }
