@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{FA1FFCC5-F829-4575-A033-8C510E70573B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeleniumWithCSharp/UnitTest1.cs">
+    <Files>
+      <File FileName="SeleniumWithCSharp/CustomControl.cs" Line="1" Column="1" />
+      <File FileName="SeleniumWithCSharp/DriverHelper.cs" Line="1" Column="1" />
+      <File FileName="SeleniumWithCSharp/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SeleniumWithCSharp" expanded="True">
+            <Node name="SeleniumWithCSharp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SeleniumWithCSharp" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SeleniumWithCSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

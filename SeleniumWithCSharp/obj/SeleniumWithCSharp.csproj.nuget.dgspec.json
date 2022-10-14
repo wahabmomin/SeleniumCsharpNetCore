@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wahabmomin/Projects/SeleniumWithCSharp/SeleniumWithCSharp/SeleniumWithCSharp.csproj": {}
+    "/Users/wahabmomin/Documents/GitHub/SeleniumCsharpNetCore/SeleniumWithCSharp/SeleniumWithCSharp.csproj": {}
   },
   "projects": {
-    "/Users/wahabmomin/Projects/SeleniumWithCSharp/SeleniumWithCSharp/SeleniumWithCSharp.csproj": {
+    "/Users/wahabmomin/Documents/GitHub/SeleniumCsharpNetCore/SeleniumWithCSharp/SeleniumWithCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wahabmomin/Projects/SeleniumWithCSharp/SeleniumWithCSharp/SeleniumWithCSharp.csproj",
+        "projectUniqueName": "/Users/wahabmomin/Documents/GitHub/SeleniumCsharpNetCore/SeleniumWithCSharp/SeleniumWithCSharp.csproj",
         "projectName": "SeleniumWithCSharp",
-        "projectPath": "/Users/wahabmomin/Projects/SeleniumWithCSharp/SeleniumWithCSharp/SeleniumWithCSharp.csproj",
+        "projectPath": "/Users/wahabmomin/Documents/GitHub/SeleniumCsharpNetCore/SeleniumWithCSharp/SeleniumWithCSharp.csproj",
         "packagesPath": "/Users/wahabmomin/.nuget/packages/",
-        "outputPath": "/Users/wahabmomin/Projects/SeleniumWithCSharp/SeleniumWithCSharp/obj/",
+        "outputPath": "/Users/wahabmomin/Documents/GitHub/SeleniumCsharpNetCore/SeleniumWithCSharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wahabmomin/.nuget/NuGet/NuGet.Config"
@@ -53,6 +53,10 @@
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[4.2.1, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.5.1, )"
             },
             "Selenium.WebDriver": {
               "target": "Package",
