@@ -7,7 +7,7 @@ namespace SeleniumWithCSharp.Pages
     {
         IWebElement txtuserName => Driver.FindElement(By.Id("UserName"));
         IWebElement txtpassword => Driver.FindElement(By.Id("Password"));
-        IWebElement btnLogin => Driver.FindElement(By.Name("Login"));
+        IWebElement btnLogin => Driver.FindElement(By.CssSelector(".btn-default"));
 
        
 
@@ -18,14 +18,9 @@ namespace SeleniumWithCSharp.Pages
 
         }
 
-        public void ClickLogin() {
+        public void ClickLoginbtn() {
 
             btnLogin.Click();
-        }
-
-        internal void EnterUserNamePassword()
-        {
-            throw new NotImplementedException();
         }
     }
 }
